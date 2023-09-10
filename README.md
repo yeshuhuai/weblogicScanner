@@ -1,8 +1,7 @@
 源工具链接：https://github.com/rabbitmask/WeblogicScan
+二开作者链接：https://github.com/0xn0ne/weblogicScanner
 
 # weblogicScaner
-
-简体中文 | [English](./README_EN.md)
 
 截至 2020 年 11 月 27 日，weblogic 漏洞扫描工具。若存在未记录且已公开 POC 的漏洞，欢迎提交 issue。
 
